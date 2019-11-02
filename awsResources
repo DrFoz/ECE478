@@ -5,3 +5,5 @@ sudo apt-get update
 sudo apt-get install -y ros-$ROS_DISTRO-tts
 
 https://aws.amazon.com/robomaker/
+
+https://github.com/aws-robotics/aws-robomaker-sample-application-voiceinteraction.git
