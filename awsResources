@@ -1,1 +1,7 @@
 https://github.com/aws-robotics/tts-ros1.git
+
+https://github.com/aws-robotics/tts-ros2.git
+sudo apt-get update
+sudo apt-get install -y ros-$ROS_DISTRO-tts
+
+https://aws.amazon.com/robomaker/
